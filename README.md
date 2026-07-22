@@ -46,16 +46,16 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupy
 
 ## 👥 Customer Segments
 
-- **Cluster 0 – Value-Seeking Families:** Low income (~$39.7K), more children, high web browsing, and low spending (~$222).  
+- **Cluster 0 – Value-Seeking Families:** Low income (approx $39.7K), more children, high web browsing, and low spending (approx $222).  
   **Strategy:** Discounts and family coupons.
 
-- **Cluster 1 – Premium Loyal Customers:** High income (~$72.8K), fewer children, and the highest spending (~$1,236).  
+- **Cluster 1 – Premium Loyal Customers:** High income (approx $72.8K), fewer children, and the highest spending (~$1,236).  
   **Strategy:** Loyalty programs and premium products.
 
-- **Cluster 2 – Digital Budget Browsers:** Low income (~$37K), lowest spending (~$166), but highest website visits (~6.66/month).  
+- **Cluster 2 – Digital Budget Browsers:** Low income (approx $37K), lowest spending (approx $166), but highest website visits (approx 6.66/month).  
   **Strategy:** Clearance sales and digital deals.
 
-- **Cluster 3 – High-Value Campaign Responders:** High income (~$70.7K), strong spending (~$1,190), and highest campaign response (~32%).  
+- **Cluster 3 – High-Value Campaign Responders:** High income (approx $70.7K), strong spending (approx $1,190), and highest campaign response (approx 32%).  
   **Strategy:** Direct marketing and high-ROI retention campaigns.
   
 ---
