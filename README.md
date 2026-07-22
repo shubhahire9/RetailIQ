@@ -46,16 +46,16 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupy
 
 ## 👥 Customer Segments
 
-* **Cluster 0 – Family Deal Seekers:** Low income (~$39.7K), more children, high web browsing, and low spending (~$222).
+* **Cluster 0 – Value-Seeking Families:** Low income (~$39.7K), more children, high web browsing, and low spending (~$222).
   **Strategy:** Discounts and family coupons.
 
-* **Cluster 1 – Wealthy Couples:** High income (~$72.8K), fewer children, and the highest spending (~$1,236).
+* **Cluster 1 – Premium Loyal Customers:** High income (~$72.8K), fewer children, and the highest spending (~$1,236).
   **Strategy:** Loyalty programs and premium products.
 
-* **Cluster 2 – Budget Single Browsers:** Low income (~$37K), lowest spending (~$166), but highest website visits (~6.66/month).
+* **Cluster 2 – Digital Budget Browsers:** Low income (~$37K), lowest spending (~$166), but highest website visits (~6.66/month).
   **Strategy:** Clearance sales and digital deals.
 
-* **Cluster 3 – High-ROI Single Buyers:** High income (~$70.7K), strong spending (~$1,190), and highest campaign response (~32%).
+* **Cluster 3 – High-Value Campaign Responders:** High income (~$70.7K), strong spending (~$1,190), and highest campaign response (~32%).
   **Strategy:** Direct marketing and high-ROI retention campaigns.
 
 ---
@@ -75,6 +75,12 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupy
 * Processed and analyzed **2,236 customers**.
 * Generated actionable insights for personalized marketing and customer retention.
 * Built an end-to-end unsupervised machine learning workflow.
+
+---
+
+## 🏁 Conclusion
+
+RetailIQ demonstrates how K-Means clustering can transform customer transaction data into meaningful business segments. The four identified groups have distinct income, spending, browsing, household, and campaign-response characteristics, allowing businesses to design targeted marketing strategies for each customer segment.
 
 ---
 
